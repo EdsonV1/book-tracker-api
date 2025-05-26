@@ -1,0 +1,14 @@
+# Binaries
+/book-tracker-api
+
+# Local DB
+*.db
+gorm.db
+
+# OS/IDE specific
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+.env
